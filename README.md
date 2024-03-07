@@ -24,3 +24,24 @@
 
 1. [ Mid-Web-Engineering-Summer-2022](./DOCS/Web-Engineering/Mid-Web-Engineering-Summer-2022.pdf)
 2. [Final-Web-Engineering-Summer-2022](./DOCS/Web-Engineering/Final-Web-Engineering-Summer-2022.pdf)
+
+### Computer Graphics
+
+1. [Mid-Computer-Graphics-Spring-2022](./DOCS/Computer-Graphics/Mid-Computer-Graphics-Spring-2022.pdf)
+
+### Database
+
+1. [Mid-Database-Fall-2021](./DOCS/Database-System/Mid-Database-Fall-2021.pdf)
+
+### Digital Signal Processing
+
+1. [Summer-2022](./DOCS/Digital-Signal-Processing/Dsp-Question.pdf)
+
+### Microprocessor & Interfacing
+
+1. [Mid-Microprocessor-Summer-2022](./DOCS/Microprocessor/Mid-Microprocessor-Summer-2022.pdf)
+2. [Final-Microprocessor-Summer-2022](./DOCS/Microprocessor/Final-Microprocessor-Summer-2022.pdf)
+
+### Software-Engineering
+
+1. [Mid-Software-Engineering-Spring-2022](./DOCS/Software-Engineering/Mid-Software-Engineering-Spring-2022.pdf)
